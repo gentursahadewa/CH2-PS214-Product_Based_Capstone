@@ -7,7 +7,7 @@ Link Prototype Aplikasi : https://uns.id/figma_ch2-ps214
 
 Working Doc for Mentoring Link: https://uns.id/working_doc_mentoring
 
-Project Brief Link: https:/uns.id/projectBrief
+Project Brief Link: https://uns.id/projectBrief
 
 Project Presentation Link: https://uns.id/ch2-ps214_presentation
 
